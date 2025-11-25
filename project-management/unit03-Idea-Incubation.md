@@ -1,10 +1,6 @@
+# 🚀 Module 3: Idea Incubation Study Notes
 
 
----
-
-## 🚀 Module 3: Idea Incubation Study Notes
-
----
 
 ## 1. Factors Determining Competitive Advantage
 
@@ -268,3 +264,4 @@ Remember the simple rule for the **Gap**:
 * The entrepreneur seeks a **positive market gap** (Demand > Supply) to exploit the opportunity.
 
 ---
+
