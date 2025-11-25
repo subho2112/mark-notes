@@ -1,9 +1,9 @@
 
----
 
-## 🏗️ Module 9: Project Feasibility Studies Study Notes
 
----
+# 🏗️ Module 9: Project Feasibility Studies Study Notes
+
+
 
 ## 1. Project Feasibility Studies: Pre-Feasibility and Feasibility
 
@@ -157,4 +157,5 @@ SCBA results in a **Social NPV** or a **Social Benefit-Cost Ratio**. A project i
 ### ✅ Summary/Revision Points
 * **SCBA** measures the project's worth to the **entire society**, not just the entrepreneur.
 * It accounts for **externalities** and uses **shadow prices** instead of market prices.
+
 * It is crucial for government approvals and large public infrastructure projects.
