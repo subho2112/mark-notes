@@ -1,9 +1,8 @@
 
----
 
-## 🛠️ Module 12: Project Monitoring and Control Study Notes
 
----
+# 🛠️ Module 12: Project Monitoring and Control Study Notes
+
 
 ## 1. Role of the Project Manager in Monitoring and Control
 
@@ -93,3 +92,4 @@ Think of the audit as ensuring **A-V-C** for the organization:
 * It is conducted to ensure **compliance** and, critically, to capture **lessons learned** for the benefit of the entire organization.
 
 ---
+
