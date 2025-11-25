@@ -1,4 +1,4 @@
-## 💡 Module 2: Entrepreneurship – An Innovation Study Notes
+# 💡 Module 2: Entrepreneurship – An Innovation Study Notes
 
 ---
 
@@ -259,3 +259,4 @@ Remember the **P.L.A.N. V.I.S.A.** qualities (Focusing on the most crucial):
 * Entrepreneurial qualities span **Psychological, Behavioral, and Managerial** domains.
 * Key traits include **Vision, Persistence, Calculated Risk-Taking, and Adaptability**.
 * The combination of these traits allows the entrepreneur to manage high uncertainty and lead the innovation process.
+
