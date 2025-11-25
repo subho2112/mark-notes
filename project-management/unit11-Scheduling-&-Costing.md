@@ -1,9 +1,9 @@
 
----
 
-## ⏰ Module 11: Project Scheduling and Costing Study Notes
 
----
+# ⏰ Module 11: Project Scheduling and Costing Study Notes
+
+
 
 ## 1. Project Scheduling Tools: Gantt Chart, CPM, and PERT
 
@@ -103,4 +103,5 @@ Instead of increasing cost (crashing), projects often seek to reduce costs witho
 ### ✅ Summary/Revision Points
 * **Crashing** shortens the schedule but **increases cost**, and must only be applied to **critical path activities**.
 * **Time-Cost Trade-off** uses the **Crash Cost per Unit Time** to select the most cost-effective activity for acceleration.
+
 * **Cost Reduction** focuses on techniques like **Value Engineering** and **process optimization** to lower the baseline budget.
