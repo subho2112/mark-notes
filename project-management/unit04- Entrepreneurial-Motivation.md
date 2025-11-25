@@ -1,8 +1,8 @@
----
 
-## 🌟 Module 4: Entrepreneurial Motivation Study Notes
 
----
+# 🌟 Module 4: Entrepreneurial Motivation Study Notes
+
+
 
 ## 1. Design Thinking-Driven Innovation
 
@@ -195,3 +195,4 @@ Remember the **4 Primary Harvest/Exit Options (L-A-M-I)**:
 * The strategy is planned early and timed to maximize **investor ROI** under favorable market conditions.
 
 ---
+
