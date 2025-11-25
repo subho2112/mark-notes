@@ -1,9 +1,8 @@
 
----
 
-## 📚 Module 5: Information Study Notes
 
----
+# 📚 Module 5: Information Study Notes
+
 
 ## 1. Government Incentives for Entrepreneurship
 
@@ -163,3 +162,4 @@ Match the institution with its primary function:
 * Strategic sectors like **Defense and Railways** have dedicated programs to leverage start-up innovation for national development.
 
 ---
+
