@@ -87,3 +87,7 @@ Your written solution should be structured like a formal mini-Project Management
 
 ---
 
+### ❤️ **Made with love and caffeine ☕**
+<div align="right" style="font-size:20px;">
+  <strong><span style="color:green;">--- agontuk</span></strong>
+</div>

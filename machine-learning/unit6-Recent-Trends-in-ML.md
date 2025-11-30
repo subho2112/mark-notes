@@ -85,3 +85,7 @@ Deep Learning continues to drive the most significant recent trends, moving beyo
 
 ---
 
+### ❤️ **Made with love and caffeine ☕**
+<div align="right" style="font-size:20px;">
+  <strong><span style="color:green;">--- agontuk</span></strong>
+</div>

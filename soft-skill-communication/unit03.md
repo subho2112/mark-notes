@@ -147,3 +147,8 @@
 * **Revision Tip:** For **Time Management**, remember to **Do, Schedule, Delegate, Delete.**
 
 ---
+
+### ❤️ **Made with love and caffeine ☕**
+<div align="right" style="font-size:20px;">
+  <strong><span style="color:green;">--- agontuk</span></strong>
+</div>
